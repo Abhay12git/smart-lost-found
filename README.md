@@ -67,7 +67,7 @@ npm install
 
 Create `.env` file in server directory:
 ```env
-PORT=5001
+PORT=5000
 MONGODB_URI=mongodb://localhost:27017/lost-found-db
 JWT_SECRET=your_super_secret_jwt_key_change_in_production
 NODE_ENV=development
