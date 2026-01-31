@@ -7,9 +7,10 @@ A full-stack MERN application that helps people report and find lost items in th
 ![React](https://img.shields.io/badge/react-v18+-blue.svg)
 
 ## 📸 Screenshots
-![alt text](image.png)
-![alt text](image-3.png)
-![alt text](image-2.png)
+"C:\Users\Asus\OneDrive\Pictures\Screenshots 1\Screenshot 2026-01-31 201347.png"
+"C:\Users\Asus\OneDrive\Pictures\Screenshots 1\Screenshot 2026-01-31 223955.png"
+![Uploading Screenshot 2026-01-31 224152.png…]()
+
 
 ## ✨ Features
 
