@@ -8,16 +8,11 @@ A full-stack MERN application that helps people report and find lost items in th
 
 ## 📸 Screenshots
 
-<img width="1361" height="638" alt="Screenshot 2026-01-31 225008" src="https://github.com/user-attachments/assets/68eaeadf-94db-4bcf-8ed5-a137726177ae" />
-
-<img width="1363" height="638" alt="Screenshot 2026-01-31 225045" src="https://github.com/user-attachments/assets/bfffe952-86a0-4e3c-9ea9-31fe812855d5" />
-
+<img width="1358" height="633" alt="Screenshot 2026-01-31 225639" src="https://github.com/user-attachments/assets/a8561ed6-92bf-4f20-ba29-177b4c5ea506" />
+<img width="1358" height="638" alt="Screenshot 2026-01-31 225657" src="https://github.com/user-attachments/assets/15febf68-cf72-4edf-972d-34bc9d50fdb8" />
 <img width="1363" height="637" alt="Screenshot 2026-01-31 201347" src="https://github.com/user-attachments/assets/8c5d9c3f-130d-4beb-adcc-f2f2191e1c01" />
-
 <img width="1360" height="634" alt="Screenshot 2026-01-31 223955" src="https://github.com/user-attachments/assets/3d7d8beb-0d67-4f18-8d09-aae04362b75f" />
-
 <img width="1361" height="635" alt="Screenshot 2026-01-31 225205" src="https://github.com/user-attachments/assets/8f93676f-3f1b-4732-837d-c3bdfa2b2715" />
-
 <img width="1360" height="622" alt="Screenshot 2026-01-31 224152" src="https://github.com/user-attachments/assets/cd61a78c-a0ac-42d3-b7bc-bd1260f64e3d" />
 
 ## ✨ Features
